@@ -1,1 +1,5 @@
 # Fintrack
+
+Many people struggle to manage their money effectively due to a lack of clear tools or financial awareness. While mobile apps exist, not everyone is comfortable using them—especially younger students, elderly people, or those who prefer working on a laptop. Most spreadsheet tools require manual input and formulas, which can be tedious and error-prone. FinTrack solves this by offering a centralized, intuitive, and automated platform where users can track their expenses without needing advanced technical knowledge.
+
+FinTrack is a comprehensive yet simple tool that allows users to record, categorize, analyze, and export their daily expenses. It is designed to instill financial discipline, provide visual insights into one’s spending habits, and promote self-awareness through clear statistical summaries. Built using Python’s Tkinter for GUI, CSV for data storage, and Matplotlib for graphical analysis, this project integrates key topics from the Computer Science syllabus into a real-world application.
